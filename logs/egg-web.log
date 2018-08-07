@@ -1,0 +1,30 @@
+2018-08-07 15:28:04,745 INFO 52162 [egg:logger] init all loggers with options: {"dir":"/Users/lisiyu/Desktop/Programs/others/gege/lijaja/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lijaja-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-08-07 15:28:04,795 INFO 52162 [egg-schedule]: register schedule /Users/lisiyu/Desktop/Programs/others/gege/lijaja/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-08-07 15:28:04,795 INFO 52162 [egg-schedule]: register schedule /Users/lisiyu/Desktop/Programs/others/gege/lijaja/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-08-07 15:28:04,957 INFO 52162 [egg-static] starting static serve /public/ -> /Users/lisiyu/Desktop/Programs/others/gege/lijaja/public
+2018-08-07 15:28:04,960 INFO 52162 [egg-security] use csrf middleware
+2018-08-07 15:28:04,961 INFO 52162 [egg-security] use methodnoallow middleware
+2018-08-07 15:28:04,962 INFO 52162 [egg-security] use noopen middleware
+2018-08-07 15:28:04,963 INFO 52162 [egg-security] use nosniff middleware
+2018-08-07 15:28:04,963 INFO 52162 [egg-security] use xssProtection middleware
+2018-08-07 15:28:04,964 INFO 52162 [egg-security] use xframe middleware
+2018-08-07 15:28:04,964 INFO 52162 [egg-security] use dta middleware
+2018-08-07 15:28:04,965 INFO 52162 [egg-security] compose 7 middlewares into one security middleware
+2018-08-07 15:28:04,980 INFO 52162 [egg:core] dump config after load, 8ms
+2018-08-07 15:28:04,999 INFO 52162 [egg-watcher:app] watcher start success
+2018-08-07 15:28:05,009 INFO 52162 [egg:core] dump config after ready, 7ms
+2018-08-07 15:46:19,488 INFO 52860 [egg:logger] init all loggers with options: {"dir":"/Users/lisiyu/Desktop/Programs/others/gege/lijaja/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lijaja-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-08-07 15:46:19,537 INFO 52860 [egg-schedule]: register schedule /Users/lisiyu/Desktop/Programs/others/gege/lijaja/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-08-07 15:46:19,537 INFO 52860 [egg-schedule]: register schedule /Users/lisiyu/Desktop/Programs/others/gege/lijaja/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-08-07 15:46:19,702 INFO 52860 [egg-static] starting static serve /public/ -> /Users/lisiyu/Desktop/Programs/others/gege/lijaja/public
+2018-08-07 15:46:19,705 INFO 52860 [egg-security] use csrf middleware
+2018-08-07 15:46:19,706 INFO 52860 [egg-security] use methodnoallow middleware
+2018-08-07 15:46:19,707 INFO 52860 [egg-security] use noopen middleware
+2018-08-07 15:46:19,708 INFO 52860 [egg-security] use nosniff middleware
+2018-08-07 15:46:19,708 INFO 52860 [egg-security] use xssProtection middleware
+2018-08-07 15:46:19,709 INFO 52860 [egg-security] use xframe middleware
+2018-08-07 15:46:19,710 INFO 52860 [egg-security] use dta middleware
+2018-08-07 15:46:19,710 INFO 52860 [egg-security] compose 7 middlewares into one security middleware
+2018-08-07 15:46:19,723 INFO 52860 [egg:core] dump config after load, 5ms
+2018-08-07 15:46:19,736 INFO 52860 [egg-watcher:app] watcher start success
+2018-08-07 15:46:19,745 INFO 52860 [egg:core] dump config after ready, 7ms

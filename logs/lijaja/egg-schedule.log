@@ -1,0 +1,4 @@
+2018-08-07 15:28:05,023 INFO 52161 [Timer] /Users/lisiyu/Desktop/Programs/others/gege/lijaja/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-08-08 00:00:00.000
+2018-08-07 15:28:05,024 INFO 52161 [Timer] /Users/lisiyu/Desktop/Programs/others/gege/lijaja/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-08-08 00:00:01.000
+2018-08-07 15:46:19,755 INFO 52859 [Timer] /Users/lisiyu/Desktop/Programs/others/gege/lijaja/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-08-08 00:00:00.000
+2018-08-07 15:46:19,755 INFO 52859 [Timer] /Users/lisiyu/Desktop/Programs/others/gege/lijaja/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-08-08 00:00:01.000
